@@ -9,4 +9,6 @@ $ pip install typhooninfo
   How to run typhooninfo 
 </h1>
 $ typhooninfo year <br>
-year between 2001 and the present
+year between 2001 and the present <br>
+ex. $ typhooninfo 2019
+
