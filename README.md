@@ -11,4 +11,4 @@ $ pip install typhooninfo
 $ typhooninfo year <br>
 year between 2001 and the present <br>
 ex. $ typhooninfo 2019
-
+<img src = 'https://github.com/yugo-Ishihara/typhooninfo/blob/main/result.png'>
